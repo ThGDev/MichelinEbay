@@ -1,0 +1,14 @@
+footer ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+}
+footer ul li{
+    display: inline-block;
+    list-style-type: none;
+}
+footer ul li a{
+    text-transform: uppercase;
+    text-decoration: none;
+}
